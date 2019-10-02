@@ -1,0 +1,45 @@
+,name,cg.rho,Type,Virus
+1,BKPolyomavirus_VP1,0.039890096,DNA,BK Polyoma VP1
+2,Denguevirus1,0.420795839,RNA,Dengue 1
+3,Denguevirus2,0.417589514,RNA,Dengue 2
+4,Denguevirus3,0.404135946,RNA,Dengue 3
+5,Denguevirus4,0.378344915,RNA,Dengue 4
+6,EnteroD68_VP1,0.331773502,RNA,Entero D VP1
+7,EnterovirusA_VP1_EVA71,0.551884535,RNA,Entero A VP1
+8,EnterovirusA_VP2_EVA71,0.586788732,RNA,Entero A VP2
+9,EnterovirusB_VP1_Echovirus30,0.679594257,RNA,Entero B VP1
+10,EnterovirusB_VP2,0.604196603,RNA,Entero B VP2
+11,EnterovirusC_VP1_Polio2,0.759473225,RNA,Entero C VP1
+12,EnterovirusC_VP2_Polio2,0.54235473,RNA,Entero C VP2
+13,HBV_A_Polymerase,0.493536263,DNA,HBV A Polymerase
+14,HBV_A_S,0.494847912,DNA,HBV A S
+15,HBV_B_Polymerase,0.489841241,DNA,HBV B Polymerase
+16,HBV_B_PreC-Core,0.558674571,DNA,HBV B PreC/Core
+17,HBV_C_polymerase,0.6641569,DNA,HBV C polymerase
+18,HBV_C_PreC-Core,0.548423749,DNA,HBV C PreC/Core
+19,HBV_C_S,0.455219315,DNA,HBV C S
+20,HBV_C_X,0.857950023,DNA,HBV C X
+21,HBV_Polymerase_updated,0.450868381,DNA,HBV Polymerase
+22,HCV1A_CDS_Alignment,0.730828707,RNA,HCV 1A 
+23,HCV1B_CDS_alignment,0.742267498,RNA,HCV 1B  
+24,HIV1_FLT_2017_pol_DNA,0.079838281,RNA,HIV1 Pol
+25,Human_Parainfluenza3_HN,0.330280979,RNA,Human Parainfluenza 3 HN
+26,HumanBoca_VP1,0.294238135,DNA,Human Boca VP1
+27,HumanHerpes2gG_CDS,1.057930957,DNA,Human Herpes 2gG 
+28,HumanPapilloma16_L1,0.281085953,DNA,Human Papilloma16 L1
+29,HumanParainfluenzavirus1_CDScsv,0.369418149,RNA,Human Parainfluenza 1 
+30,HumanRespiratorySyncytial_CDS,0.229953829,RNA,Human Respiratory Syncytial 
+31,InfluenzaAvirus_HA_H1N1_alignment,0.372044155,RNA,InfluenzaA HA H1N1 
+32,InfluenzaAvirus_HA_H3N2_alignment,0.410105114,RNA,InfluenzaA HA H3N2 
+33,InfluenzaAvirus_NA_H1N1_alignment,0.391427585,RNA,InfluenzaA NA H1N1 
+34,InfluenzaAvirus_NA_H3N2_alignment,0.377019624,RNA,InfluenzaA NA H3N2 
+35,InfluenzaB_HA,0.314024249,RNA,InfluenzaB HA
+36,InfluenzaB_NA,0.359442015,RNA,InfluenzaB NA
+37,Measles_hemagglutinin_alignment,0.462335314,RNA,Measles HH 
+38,Parainfluenza1_HN,0.415774681,RNA,Human Parainfluenza 1 HN
+39,Parainfulenza3_CDS,0.377255736,RNA,Human Parainfulenza 3 
+40,ParovirusB19_NS1_alignment,0.265905775,DNA,Parvo B19 NS1 
+41,Parovovirus_B19_VP1_alignment,0.211576479,DNA,Parovo B19 VP1 
+42,RhinovirusB alignment,0.183337431,RNA,Rhino B 
+43,RhinovirusC,0.260455095,RNA,Rhino C
+44,RotavirusA_VP6_alignment,0.674244666,RNA,Rota A VP6 
