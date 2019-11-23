@@ -1,0 +1,7 @@
+P and C overlappting 146 bases -> different reading frame
+P and S 1063 bases /3 = 354.3333 -> different reading frame 
+
+preS 123 bases preS and S are same reading grame 
+
+541/3=18.333  
+
